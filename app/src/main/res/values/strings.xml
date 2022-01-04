@@ -7,4 +7,9 @@
     <string name="following">20</string>
     <string name="text_following">Following :</string>
     <string name="location">Bandar Lampung</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_followers2">Followers</string>
+    <string name="text_following2">Following</string>
+    <string name="text_repositori">Repositori</string>
 </resources>

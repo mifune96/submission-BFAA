@@ -3,12 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/activity_detail.xml" value="0.10253401522807278" />
+        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/activity_detail.xml" value="0.2538855560616687" />
         <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/activity_main.xml" value="0.1536630055648959" />
         <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/activity_search_user.xml" value="0.2907692307692308" />
+        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/fragment_follower.xml" value="0.14375" />
+        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/fragment_following.xml" value="0.1578125" />
         <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/item_followers.xml" value="0.4028571072300953" />
-        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/item_following.xml" value="0.2907692307692308" />
-        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/item_user.xml" value="0.12691131498470948" />
+        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/item_following.xml" value="0.28719723183391005" />
+        <entry key="../../Dicoding/GithubUser/app/src/main/res/layout/item_user.xml" value="0.2747438146995992" />
         <entry key="../../Dicoding/GithubUser/app/src/main/res/menu/detailuser_menu.xml" value="0.2907692307692308" />
       </map>
     </option>
